@@ -1,0 +1,23 @@
+The original dev for this loader is Sixify all I done was take this loader to make some improvements/additions below you can see what I have added
+
+here is his github https://github.com/sixifyx
+
+I DON'T take ANY ownership of this loader hence why I am making it a free release and not gatekeeping or making it paid
+
+- Added a Update log and Menu Status at the home tab
+
+- Load images through memory using bytes on dx9 
+
+- Each game also has their own status e.g. online, updating etc...
+
+- Changed colors of tab icons when active to purple 
+
+- Changed checkbox colors to purple
+
+- Added Green Text saying Injecting above the Inject button when click for a short period that disappears by itself
+
+This is of course very easy and nothing crazy for those who are experienced with imgui's and make their own already know 
+
+I think this would be helpful for lots of people who are new to this who may want to learn about how the imgui's are made or work or even implement some of the code into their own
+
+projects but DON'T SKID it wont get you anywhere I recommend you to learn c++ how imgui works if you don't already as it will be very helpful

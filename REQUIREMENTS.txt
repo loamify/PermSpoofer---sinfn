@@ -1,0 +1,9 @@
+To be able to use this loader you will directX you can download it from the link below 
+
+https://www.microsoft.com/en-gb/download/details.aspx?id=6812
+
+Add the includes and libs into the lib and include directories
+
+And then you should be good to go!
+
+For any issues dm me on discord - imguidesigns

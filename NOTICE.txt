@@ -1,0 +1,11 @@
+This loader has no function code for the buttons including injection this is just the ui of the loader
+
+ALSO I know the images are trash I just put the first thing I got but its very simple to get them into bytes download them of whichever browser you use and download hxd
+
+https://mh-nexus.de/en/downloads.php?product=HxD20
+
+drag the .png file into here and then go to File > export > C and set to wherever then you can open with notepad and you will see thousands of bytes just make a new .h in the
+ 
+bytes folder and put them in with hxd it will generate 2 additional lines at the top of the notepad when u first open to check the bytes just delete them and rename rawData
+
+and then you can call the name byte array name at main.cpp
